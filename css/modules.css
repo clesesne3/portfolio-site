@@ -6,3 +6,27 @@
 #header-name {
   font-size: 3em;
 }
+
+.project-title {
+  text-align: center;
+  text-decoration: underline;
+  font-style: italic;
+  color: #2C3E50;
+}
+
+.img-fluid {
+  max-height: 100%;
+}
+
+#about-title-1, #about-title-2 {
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+#about-para-1, #about-para-2 {
+  text-align: center;
+}
+
+#copyright {
+  font-size: 1.2rem;
+}
