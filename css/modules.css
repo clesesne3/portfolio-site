@@ -1,5 +1,5 @@
 #profile-pic {
-  border-radius: 50%;
+  border-radius: 5%;
   max-width: 100%;
 }
 
@@ -16,6 +16,10 @@
 
 .img-fluid {
   max-height: 100%;
+}
+
+.modal-para {
+  font-size: 1.3rem;
 }
 
 #about-title-1, #about-title-2 {
