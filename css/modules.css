@@ -9,11 +9,11 @@ div.container {
 
 header.masthead {
   max-width: 100%;
-  background-image: url('beforeIDie.png') !important;
+  background-image: url('sunrise-space.jpg') !important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  padding: 23rem;
+  padding: 24rem;
   opacity: 0.85;
 }
 
@@ -23,9 +23,9 @@ header.masthead {
 
 #roles-header {
   position: relative;
-  /* bottom: 18rem; */
-  top: 22rem;
-  right: 12rem;
+  bottom: 13rem;
+  /* top: 22rem; */
+  right: 14rem;
   width: 76vw;
   text-align: center;
   font-weight: bolder;
