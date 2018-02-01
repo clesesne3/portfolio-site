@@ -14,7 +14,7 @@ header.masthead {
   background-size: cover;
   background-position: center;
   padding: 24rem;
-  opacity: 0.85;
+  /* opacity: 0.9; */
 }
 
 #header-name {
@@ -43,12 +43,26 @@ header.masthead {
   background-color: #613A43;
 }
 
+#resume-btn:hover {
+  color: #613A43;
+}
+
 .img-fluid {
   max-height: 100%;
 }
 
 .modal-para {
   font-size: 1.3rem;
+}
+
+.modal-links {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.modal-links:hover {
+  color: midnightblue;
 }
 
 #about-title-1, #about-title-2 {
