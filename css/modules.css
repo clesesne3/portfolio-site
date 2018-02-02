@@ -1,20 +1,14 @@
-#profile-pic {
-  border-radius: 1%;
-  max-width: 100%;
-}
-
 div.container {
   width: 100%;
 }
 
 header.masthead {
   max-width: 100%;
-  background-image: url('sunrise-space.jpg') !important;
+  background-image: url('lightbulb-space.jpg') !important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   padding: 24rem;
-  /* opacity: 0.9; */
 }
 
 #header-name {
@@ -23,13 +17,13 @@ header.masthead {
 
 #roles-header {
   position: relative;
-  bottom: 13rem;
-  /* top: 22rem; */
-  right: 14rem;
+  bottom: 14rem;
+  right: 10rem;
   width: 76vw;
   text-align: center;
   font-weight: bolder;
-  text-shadow: 2px 2px 6px midnightblue;
+  color: midnightblue;
+  text-shadow: 2px 2px 6px #fff;
 }
 
 .project-title {
@@ -75,6 +69,14 @@ header.masthead {
 
 #about-para-1, #about-para-2 {
   text-align: center;
+}
+
+#optional-image {
+  background-image: url('beforeIDie.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 24rem;
 }
 
 #copyright {
