@@ -37,6 +37,10 @@ header.masthead {
   background-color: #613A43;
 }
 
+#resume-btn {
+  margin-top: 3rem;
+}
+
 #resume-btn:hover {
   color: #613A43;
 }
