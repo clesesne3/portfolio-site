@@ -86,3 +86,14 @@ header.masthead {
 #copyright {
   font-size: 1.2rem;
 }
+
+@media screen and (max-width: 767px) {
+  #about, #connect {
+    max-width: 100%;
+    margin-right: 0;
+  }
+
+  body {
+    margin: 0;
+  }
+}
